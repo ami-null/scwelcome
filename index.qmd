@@ -24,7 +24,7 @@ format:
 
 ![](images/logo_trans.png)
 
-::: {.center}
+::: {.r-fit-text}
 A brief tour of ISRT Students' Club
 :::
 
