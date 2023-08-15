@@ -1,6 +1,7 @@
 ---
 format: 
     revealjs:
+        pagetitle: "Welcome to ISRT Students' Club"
         menu: false
         history: false
         height: 1280
@@ -26,5 +27,3 @@ format:
 ISRT students club was formed in 2017 with the core purpose of promoting extra curricular activities among the students of ISRT.
 
 Our main objective is to equip the students with the necessary skills and experiences essential in their professional life, provide them with a platform to share and communicate ideas and build a strong community among the students.
-
-## 
