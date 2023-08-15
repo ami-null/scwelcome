@@ -22,7 +22,15 @@ format:
 
 ##
 
-![](images/logo_trans.png){fig-align="center"}
+![](images/logo_trans.png)
+
+::: {.center}
+A brief tour of ISRT Students' Club
+:::
+
+##
+
+![](images/Brotherhood_2.jpg)
 
 ISRT students club was formed in 2017 with the core purpose of promoting extra curricular activities among the students of ISRT.
 
