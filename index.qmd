@@ -1,0 +1,17 @@
+---
+format: 
+    revealjs:
+        menu: false
+        history: false
+        height: 1280
+        width: 720
+        transition: slide
+        background-transition: slide
+        controls: true
+        controls-layout: bottom-right
+        navigation-mode: vertical
+        # title-slide-attributes:
+        #     data-background-image: 
+        #     data-background-color: 
+        #     data-background-size: contain
+---
